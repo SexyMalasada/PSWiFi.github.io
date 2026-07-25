@@ -447,4 +447,11 @@ var imgdata = [
     month_numerical: 6,
     year: 2026,
   },
+  {
+    filename: "timetravel.png",
+    authors: ["ciran", "dawolfkid"],
+    oga_theme: "Time Traveler",
+    month_numerical: 7,
+    year: 2026,
+  },
 ];
